@@ -1,7 +1,7 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "Impostor.mc-srv.com",
+ "port": "",
+ "name": "Impostor",
  "auto-night-skip": "false",
  "loginmsg": "Your_Login_message_here",
  "prefix": "!",
