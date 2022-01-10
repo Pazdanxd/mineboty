@@ -3,7 +3,7 @@
  "port": "",
  "name": "Impostor",
  "auto-night-skip": "false",
- "loginmsg": "Your_Login_message_here",
+ "loginmsg": "/login Countryboy01",
  "prefix": "!",
  "version": "1.17.1"
 }
